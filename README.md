@@ -13,14 +13,10 @@ This Web App is all in one expense tracking platform for user seeking their dail
 
 
 ## Screenshots
-
-**Landing Page:**
 <a href="https://drive.google.com/uc?export=view&id=1cu0ODSygBeZo1W9wyU2OWLQyUGOGvv7U"><img src="https://drive.google.com/uc?export=view&id=1cu0ODSygBeZo1W9wyU2OWLQyUGOGvv7U" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
-**DashBoard:**
 <a href="https://drive.google.com/uc?export=view&id=1_CkAYpuTgq_in-32NJ-L1boH4wHPIhHK"><img src="https://drive.google.com/uc?export=view&id=1_CkAYpuTgq_in-32NJ-L1boH4wHPIhHK" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
-**Visual Charts:**
 <a href="https://drive.google.com/uc?export=view&id=1YQdcwW7dcT6q37DXle5Dm_r58u_o_Kf_"><img src="https://drive.google.com/uc?export=view&id=1YQdcwW7dcT6q37DXle5Dm_r58u_o_Kf_" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 
