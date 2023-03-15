@@ -1,7 +1,7 @@
 
 # Expense Tracker
 
-This Web App is all in one expense tracking platform for user seeking their daily expenditure
+This Web App is all in one expense tracking platform for user seeking their daily expenditures.
 
 
 
